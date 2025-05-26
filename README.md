@@ -18,3 +18,7 @@ All greenspaces across London are shaded, with markers highlighting parks locate
 ## Heatmap Preview
 A heatmap overlay of all my routes to display where I have run across London! (Yes I know I need to branch out more hopefully this project will help :0)
 ![Heatmap](map_previews/heatmap.png)
+
+## Current Progress
+A park checklist with my current progress!
+![Checklist](checklist.png)
