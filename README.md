@@ -1,4 +1,6 @@
 # Strava-London-Parks-YAY
+[Click here](https://hmcooper1.github.io/Strava-London-Parks-YAY/park_tracker.html) to view the interactive park tracker map, and [here](https://hmcooper1.github.io/Strava-London-Parks-YAY/heatmap.html) to view the interactive heatmap
+
 [Click here](https://nbviewer.org/github/hmcooper1/London-Parks-Run-YAY/blob/main/london_parks_run_yay.ipynb?flush_cache=true) to view the full notebook - Folium maps do not display on GitHub
 
 ## Overview
